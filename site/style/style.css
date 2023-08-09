@@ -1,0 +1,16 @@
+@import url("styles/header.css");
+:root{
+    --cor-de-fundo: #6496DA;
+    --branco:##6496DA;
+    
+}
+body{
+    background-color: var(--cor-de-fundo);
+    font-size: 16px;
+    font-weight: 400px;
+}
+p{
+    color: rgb(136, 15, 15);
+    font-size: 20px;
+    font-family: 'Fantasy', Arial, sans-serif;
+}
